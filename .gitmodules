@@ -2,3 +2,7 @@
 	path = Keywords
 	url = https://github.com/kieutrang22/keyword.git
 	branch = master
+[submodule "keyword"]
+	path = keyword
+	url = https://github.com/kieutrang22/keyword.git
+	branch = master

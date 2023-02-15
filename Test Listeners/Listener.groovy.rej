@@ -1,0 +1,10 @@
+diff a/Test Listeners/Listener.groovy b/Test Listeners/Listener.groovy	(rejected hunks)
+@@ -34,7 +34,7 @@
+ 	 **/
+ 	@Before
+ 	def before() {
+-		Mobile.startApplication(GlobalVariable.appPath, true)
++		Mobile.startApplication(GlobalVariable.appPath,false)
+ 	}
+ 	
+ 	@After

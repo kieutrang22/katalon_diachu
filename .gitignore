@@ -1,0 +1,16 @@
+bin/
+Reports/
+Libs/
+output/
+.idea/
+.cache/
+.settings/
+build/
+
+!output/.gitkeep
+
+.classpath
+
+.project 
+
+appium.log
